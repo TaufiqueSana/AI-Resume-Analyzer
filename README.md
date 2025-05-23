@@ -16,6 +16,7 @@ A simple AI-powered web app that analyzes your resume and compares it with a job
 - PDF Parsing: PDFPlumber
 
 **▶️ Getting Started**
+
 **1. Clone the Repository**
 
 ```bash
