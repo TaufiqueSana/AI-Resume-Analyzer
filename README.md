@@ -1,4 +1,4 @@
-**AI Resume Analyzer & Job Match Score**
+## **AI Resume Analyzer & Job Match Score**
 
 A simple AI-powered web app that analyzes your resume and compares it with a job description to give you a match score using natural language processing (NLP) techniques.
 
@@ -51,3 +51,8 @@ Taufique Sana
 📧 taufiquesana171@gmail.com
 
 🔗 https://github.com/TaufiqueSana
+
+**🔗 Live Demo**
+
+Check out the live app here: [AI Resume Analyzer](https://ai-resume-analyzer-uadtu5r6qgxn2xdnhwjuyk.streamlit.app/)
+
