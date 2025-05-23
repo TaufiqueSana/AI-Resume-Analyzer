@@ -1,4 +1,4 @@
-**🧠 AI Resume Analyzer**
+**AI Resume Analyzer & Job Match Score**
 
 A simple AI-powered web app that analyzes your resume and compares it with a job description to give you a match score using natural language processing (NLP) techniques.
 
@@ -46,6 +46,8 @@ Cosine Similarity measures how closely your resume matches the job description.
 
 **🙋‍♂️ Author**
 
- Taufique Sana
- 📧 taufiquesana171@gmail.com
- 🔗 GitHub Profile
+Taufique Sana
+
+📧 taufiquesana171@gmail.com
+
+🔗 TaufiqueSana
