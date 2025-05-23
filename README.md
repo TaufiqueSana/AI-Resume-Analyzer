@@ -21,19 +21,19 @@ A simple AI-powered web app that analyzes your resume and compares it with a job
 
 ```bash
 git clone https://github.com/TaufiqueSana/AI-Resume-Analyzer.git
-cd AI-Resume-Analyzer
+cd AI-Resume-Analyzer```
 
 **2. Install Dependencies**
 
 Make sure Python is installed, then install required packages:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 **3. Run the App**
 
 ```bash
-streamlit run app.py
+streamlit run app.py```
 
 **❓ How It Works**
 
